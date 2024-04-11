@@ -22,21 +22,21 @@ ros2 launch ur_robot_driver ur_control.launch.py ur_type:=ur3e robot_ip:=192.168
 ros2 launch ur_moveit_config ur_moveit.launch.py ur_type:=ur3e launch_rviz:=true use_fake_hardware:=true
 ```
 
-## Task1 - Change the goal point in [hello_moveit.cpp](/Lab6/src/ROS2_ur_moveit_examples/hello_moveit.cpp) and watch the robot planning the path to it.
+## Task1 - Change the goal point in [hello_moveit.cpp](/Lab6/src/ROS2_ur_moveit_examples/src/hello_moveit.cpp) and watch the robot planning the path to it.
 
 ### To run:
 ```
 ros2 launch ros2_ur_moveit_examples hello_moveit.launch.py
 ```
 
-## Task2 - add 2 more obstacles inside [planning_scene.cpp](/Lab6/src/ROS2_ur_moveit_examples/planning_scene.cpp) and watch the robot planning the path and avoiding the obstacles.
+## Task2 - add 2 more obstacles inside [planning_scene.cpp](/Lab6/src/ROS2_ur_moveit_examples/src/planning_scene.cpp) and watch the robot planning the path and avoiding the obstacles.
 ### To run:
 ```
 ros2 launch ros2_ur_moveit_examples planning_scene.launch.py
 ```
 
 
-## Task3 - edit joint configuration inside [kinematics.cpp](/Lab6/src/ROS2_ur_moveit_examples/kinematics.cpp).
+## Task3 - edit joint configuration inside [kinematics.cpp](/Lab6/src/ROS2_ur_moveit_examples/src/kinematics.cpp).
 ### To run:
 ```
 ros2 launch ros2_ur_moveit_examples kinematics.launch.py
