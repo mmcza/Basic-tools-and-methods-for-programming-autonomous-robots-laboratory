@@ -1,7 +1,7 @@
 # Lab7 - ROS Rosbag and Tensorflow
 
 > [!NOTE]
-> Based on [Rafał Staszak's repossitory](https://github.com/RafalStaszak/ros2_object_detection)
+> Based on [Rafał Staszak's repository](https://github.com/RafalStaszak/ros2_object_detection)
 
 Put the src directory inside of your ros2 workspace!
 
