@@ -8,3 +8,4 @@
 | [Inverse Kinematics and trajectory planning](/Lab6) | <img src="/pictures/PNiMPRA_Lab6_Task2.gif" alt="drawing" width="300"/> |
 | [ROS Rosbag and Tensorflow for object detection](/Lab7) | <img src="/pictures/PNiMPRA_Lab7_gif2.gif" alt="drawing" width="300"/> |
 | [LiDAR and robot control in a labirynth](/Lab8) | <img src="/pictures/PNiMPRA_Lab8_LIDAR.gif" alt="drawing" width="300"/> |
+| [ParallelProgramming](/Lab9) | <img src="/pictures/PNiMPRA_Lab9.png" alt="drawing" width="300"/> |
