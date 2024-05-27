@@ -10,3 +10,4 @@
 | [LiDAR and robot control in a labirynth](/Lab8) | <img src="/pictures/PNiMPRA_Lab8_LIDAR.gif" alt="drawing" width="300"/> |
 | [Parallel Programming](/Lab9) | <img src="/pictures/PNiMPRA_Lab9.png" alt="drawing" width="300"/> |
 | [Parallel Programming with CUDA part 1](/Lab11) | |
+| [PyBullet](/Lab12) | <img src="/pictures/PNiMPRA_Lab12.gif" alt="drawing" width="300"/> |
